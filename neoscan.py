@@ -4,6 +4,7 @@ import socket, threading, queue, time
 # Ways to take this:
 # - Make it much faster (it's very slow)
 # - Display what use case the open port is probably being used for
+# - Play a working sound when it's working and a satisfying ding when an open port is found
 
 
 def scan():
